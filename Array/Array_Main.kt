@@ -10,4 +10,5 @@ fun main(args: Array<String>) {
     for((fruta, quantidade) in contagemFrutas){
         println("$fruta: $quantidade")
     }
+    //Projeto feito com o intuito de melhorar em Kotlin
 }
